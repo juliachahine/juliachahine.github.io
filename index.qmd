@@ -1,0 +1,22 @@
+---
+title: "Julia Chahine"
+about:
+    template: solana
+    image: websitePicture1.png
+    links:
+    - icon: email
+      text: Email
+      href: julia_chahine@brown.edu
+    - icon: github
+      text: Github
+      href: https://github.com/juliachahine
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/julia-chahine
+---
+
+I am a Ph.D. student in Economics at Brown University and supported by a National Science Foundation Graduate Research Fellowship. 
+
+Broadly, my research interests are in macroeconomic theory.
+
+

@@ -1,0 +1,8 @@
+---
+title: "It's A Boy! Gender Bias & the Fertility Decline"
+author: 
+  - Julia Chahine
+  - Israel Eruchimovitch
+categories: [Working Papers]
+description: "This paper examines the effect of gender bias, a parent's preference for having children of a particular gender, on fertility decisions. We develop a theoretical model of sequential fertility decisions with a bias towards boys and show that: 1. bias increases fertility; 2. the bias increases both the proportion of boys and their share among the youngest children; 3. given a bias, the current proportion of boys in a family decreases the likelihood of having another child. Empirically, we plan to test these predictions using detailed family level panel data constructed from repeated census records in Minden, Germany from 1880 to 1900. Ultimately, we seek to show that a differential bias towards male children may have played a crucial role in both the onset and timing of the demographic transition."
+---

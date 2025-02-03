@@ -1,0 +1,19 @@
+---
+title: "Research"
+listing:
+  - id: working-papers
+    contents: "working-papers/*.qmd"
+    feed: 
+      type: full
+    type: default
+    fields: [author, title, description]
+
+  # - id: publications
+  #   contents: "publications/*.qmd"
+  #   type: default
+  
+---
+
+## Working Papers
+:::{#working-papers}
+:::
