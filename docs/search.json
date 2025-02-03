@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julia Chahine",
+    "section": "",
+    "text": "I am a Ph.D. student in Economics at Brown University and supported by a National Science Foundation Graduate Research Fellowship.\nBroadly, my research interests are in macroeconomic theory."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Brown University\nI am a second year Ph.D. student in Economics at Brown University. While at Brown, I am grateful to be supported by a National Science Foundation Graduate Research Fellowship.\nMy broad research interests are in macroeconomic theory; in particular, expectations formation, monetary policy, and macro-finance (and occasionally a bit of growth).\nFor the 2024-2025 year, I am the secretary of the economics Graduate Student Association.\n\n\nUniversity of Michigan\nPrior to starting my Ph.D., I received a M.S. in Applied and Interdisciplinary Mathematics at the University of Michigan in Ann Arbor.\nAt Michigan, I founded my passion for dynamic systems, complex analysis, and probability. Through courses and research in these areas, my then-tangential interest in economics grew; ultimately, compelling my application to economics Ph.D. programs.\n\n\nColby College\nI graduated from Colby College with a B.A. in Theoretical Mathematics and minors in both Economics and Philosophy.\nWhile at Colby, I was a member of their NCAA DI Alpine Ski Team. During my junior and senior years, I served at the captain of the team.\n\n\nBeyond Academia\nI like to be outside! Skiing will always have a special place in my heart, but I enjoy most activities that are accompanied by good views; hiking, biking, sailing, running, etc.."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "This paper examines the effect of gender bias, a parent’s preference for having children of a particular gender, on fertility decisions. We develop a theoretical model of sequential fertility decisions with a bias towards boys and show that: 1. bias increases fertility; 2. the bias increases both the proportion of boys and their share among the youngest children; 3. given a bias, the current proportion of boys in a family decreases the likelihood of having another child. Empirically, we plan to test these predictions using detailed family level panel data constructed from repeated census records in Minden, Germany from 1880 to 1900. Ultimately, we seek to show that a differential bias towards male children may have played a crucial role in both the onset and timing of the demographic transition.\n\n\n\n\n\nJulia Chahine, Israel Eruchimovitch\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/genderBiasPaper.html",
+    "href": "research/genderBiasPaper.html",
+    "title": "My First Paper",
+    "section": "",
+    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+  },
+  {
+    "objectID": "about.html#brown-university",
+    "href": "about.html#brown-university",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a second year Ph.D. student in Economics at Brown University. While at Brown, I am supported by a National Science Foundation Graduate Research Fellowship.\nMy broad research interests are in macroeconomic theory, in particular expectations formation, monetary policy, and macro-finance."
+  },
+  {
+    "objectID": "about.html#at-brown-university",
+    "href": "about.html#at-brown-university",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a second year Ph.D. student at Brown University."
+  },
+  {
+    "objectID": "about.html#currently",
+    "href": "about.html#currently",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a second year Ph.D. student in Economics at Brown University. While at Brown, I am supported by a National Science Foundation Graduate Research Fellowship.\nMy broad research interests are in macroeconomic theory, in particular expectations formation, monetary policy, and macro-finance."
+  },
+  {
+    "objectID": "about.html#university-of-michigan",
+    "href": "about.html#university-of-michigan",
+    "title": "About Me",
+    "section": "University of Michigan",
+    "text": "University of Michigan\nPrior to Brown University, I received a M.S. in Applied and Interdisciplinary Mathematics at the University of Michigan in Ann Arbor."
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "This paper examines the effect of gender bias, a parent’s preference for having children of a particular gender, on fertility decisions. We develop a theoretical model of sequential fertility decisions with a bias towards boys and show that: 1. bias increases fertility; 2. the bias increases both the proportion of boys and their share among the youngest children; 3. given a bias, the current proportion of boys in a family decreases the likelihood of having another child. Empirically, we plan to test these predictions using detailed family level panel data constructed from repeated census records in Minden, Germany from 1880 to 1900. Ultimately, we seek to show that a differential bias towards male children may have played a crucial role in both the onset and timing of the demographic transition.\n\n\n\n\n\nJulia Chahine, Israel Eruchimovitch\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/working-papers/genderBiasPaper.html",
+    "href": "research/working-papers/genderBiasPaper.html",
+    "title": "Gender Bias & the Fertility Decline",
+    "section": "",
+    "text": "This paper examines the effect of gender bias, a parent’s preference for having children of a particular gender, on fertility decisions. We develop a theoretical model of sequential fertility decisions with a bias towards boys and show that: 1. bias increases fertility; 2. the bias increases both the proportion of boys and their share among the youngest children; 3. given a bias, the current proportion of boys in a family decreases the likelihood of having another child. Empirically, we plan to test these predictions using detailed family level panel data constructed from repeated census records in Minden, Germany from 1880 to 1900. Ultimately, we seek to show that a differential bias towards male children may have played a crucial role in both the onset and timing of the demographic transition."
+  }
+]

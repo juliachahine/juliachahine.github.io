@@ -1,0 +1,77 @@
+/* css styles */
+/* .navbar {
+    background-color: #f5f4ef !important;
+  }
+
+body {
+    color: #645e4f;
+  }
+
+h1 {
+    color: #645e4f;
+  }
+
+h2 {
+    color: #645e4f;
+  }
+
+h3 {
+    color: #645e4f;
+  } */
+.navbar {
+    background-color: #faf7f3 !important;
+  }
+
+body {
+    color: #4b4a48;
+  }
+
+h1 {
+    color: #969491;
+  }
+
+h2 {
+    color: #afacaa;
+  }
+
+h3 {
+    color: #afacaa;
+  }
+
+link {
+    color: #afacaa;
+  }
+
+/* Three-column grid layout for each listing entry */
+.quarto-listing .listing-entry {
+  display: grid;
+  grid-template-columns: 250px 300px 1fr; /* Authors, title, description */
+  gap: 20px; /* Space between columns */
+  align-items: start; /* Align items to the top */
+  margin-bottom: 30px; /* Add space between listings */
+}
+
+/* Author column styling */
+.quarto-listing .listing-authors {
+  white-space: normal; /* Allow names to wrap */
+  line-height: 1.8; /* Improve readability between names */
+}
+
+/* Title column styling */
+.quarto-listing .listing-title {
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+/* Description column styling */
+.quarto-listing .listing-description {
+  font-size: 14px; /* Smaller font for descriptions */
+  /* color: #555; Softer text color for descriptions */
+  line-height: 1.6; /* Improve readability */
+}
+
+/* Prevent the description from wrapping under the title */
+.quarto-listing .listing-title,
+.quarto-listing .listing-description {
+  grid-column: auto; /* Ensure they occupy distinct grid cells */
+}
